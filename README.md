@@ -1,3 +1,3 @@
-#Golang Training
+# Golang Training
 
 Some exercises to practice golang!
